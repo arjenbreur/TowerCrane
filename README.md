@@ -3,7 +3,7 @@ Lasercut TowerCrane SVG
 
 This project is featured on Thingiverse: http://www.thingiverse.com/thing:2154459
 
-*Summary*
+## Summary
 
 This toy Tower Crane is designed for 6mm thick plywood (or potentially other material, to be lasercut from 2 sheets of 600x300cm.
 
@@ -16,7 +16,7 @@ It has 3 degrees of movement:
 - axial (the top part can rotate 360 degrees)
 The top connects to the tower via a 25mm diameter aluminum tube, which acts as rotation axel. Metal shafts or threaded rods (4 and 6 mm) and (plastic) gears are required for actual hoisting action.
 
-*Prototype!*
+## Prototype!
 
 This project still is, and might remain, in prototyping phase
 The prototype shown in the pictures was lasercut from 4mm poplar ply (didn't have 6mm ply available at the time). This results in several measurements being off, like the box joints not being flush.
